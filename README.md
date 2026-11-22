@@ -229,12 +229,12 @@ Architected and developed by **Hamzah Rababah**.
 <p align="left">
   <a href="https://github.com/HamzahRababah707"><img src="https://img.shields.io/badge/GitHub-HamzahRababah707-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://snapviewjo.42web.io/?i=1"><img src="https://img.shields.io/badge/Website-Live_Platform-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="mailto:rababahhamzah@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:rababahhamzah64@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 - **GitHub Profile:** [@HamzahRababah707](https://github.com/HamzahRababah707)
 - **Production URL:** [https://snapviewjo.42web.io/?i=1](https://snapviewjo.42web.io/?i=1)
-- **Direct Email:** `rababahhamzah@gmail.com`
+- **Direct Email:** `rababahhamzah64@gmail.com`
 
 ---
 
