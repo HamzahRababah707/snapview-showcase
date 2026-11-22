@@ -1,227 +1,230 @@
 <div align="center">
 
-  <img src="assets/logo.png" alt="SnapView Logo" width="120" style="border-radius: 20px; box-shadow: 0 8px 24px rgba(0,0,0,0.12);" />
+  <img src="assets/logo.png" alt="SnapView Logo" width="120" style="border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.15); margin-bottom: 12px;" />
 
   # 🎬 SnapView
-  ### *Intelligent AI Video Synthesis & Dynamic QR Mobile Showcase Platform*
+  ### *Enterprise AI Video Synthesis & Dynamic QR Telemetry Platform*
+  **Next-Generation Visual Commerce for Interactive Hospitality Menus & 3D Product Showcases**
 
-  <p align="center">
-    <strong>A next-generation commercial SaaS bridging high-fidelity generative AI video models with real-world mobile AR/3D instant preview.</strong>
-  </p>
+  <br/>
 
-  <!-- Badges Grid -->
+  <!-- Shields Badges Matrix -->
   <p align="center">
     <a href="https://snapviewjo.42web.io/?i=1"><img src="https://img.shields.io/badge/🟢_Live_Platform-Online-00C853?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo" /></a>
-    <img src="https://img.shields.io/badge/Architecture-Closed--Source_SaaS-red?style=for-the-badge&logo=lock&logoColor=white" alt="Closed Source" />
-    <img src="https://img.shields.io/badge/Laravel-12.x-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-    <img src="https://img.shields.io/badge/PHP-8.2+-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-    <img src="https://img.shields.io/badge/AI_Engine-Luma_Ray_API-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Luma AI" />
-    <img src="https://img.shields.io/badge/Styling-Tailwind_CSS_3-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind" />
-    <img src="https://img.shields.io/badge/Security-2FA_%26_Signed_URLs-indigo?style=for-the-badge&logo=auth0&logoColor=white" alt="Security" />
+    <img src="https://img.shields.io/badge/Type-Commercial_B2B_SaaS-blue?style=for-the-badge&logo=rocket&logoColor=white" alt="Commercial SaaS" />
+    <img src="https://img.shields.io/badge/Source-Closed--Source_Proprietary-red?style=for-the-badge&logo=lock&logoColor=white" alt="Closed Source" />
+    <img src="https://img.shields.io/badge/Framework-Laravel_12-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel 12" />
+    <img src="https://img.shields.io/badge/AI_Engine-Luma_Ray--3.2-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Luma AI" />
+    <img src="https://img.shields.io/badge/Telemetry-GeoIP_%26_Device-blueviolet?style=for-the-badge&logo=databricks&logoColor=white" alt="Telemetry" />
+    <img src="https://img.shields.io/badge/Security-2FA_%26_Anti--Fraud-indigo?style=for-the-badge&logo=auth0&logoColor=white" alt="Security" />
   </p>
 
-  <!-- Quick Nav -->
+  <!-- Navigation Bar -->
   <p align="center">
     <a href="#-interactive-live-demo">🚀 <b>Live Demo</b></a> •
-    <a href="#-project-overview">💡 <b>Overview</b></a> •
-    <a href="#-multi-phase-ai-pipeline">🧠 <b>AI Pipeline</b></a> •
-    <a href="#-key-capabilities">✨ <b>Key Features</b></a> •
-    <a href="#%EF%B8%8F-technology-stack">🛠️ <b>Tech Stack</b></a> •
-    <a href="#-mobile-qr-experience">📱 <b>QR Experience</b></a> •
-    <a href="#-developer--contact">📬 <b>Author</b></a>
+    <a href="#-executive-summary">💡 <b>Executive Summary</b></a> •
+    <a href="#-architectural-innovations">🧠 <b>Core Innovations</b></a> •
+    <a href="#-system-sequence--telemetry-flow">🔄 <b>Lifecycle Flow</b></a> •
+    <a href="#%EF%B8%8F-production-tech-stack">🛠️ <b>Tech Stack</b></a> •
+    <a href="#-security--anti-fraud-architecture">🛡️ <b>Security & Anti-Fraud</b></a> •
+    <a href="#-author--contact">📬 <b>Author</b></a>
   </p>
 
   <br/>
 
-  <!-- Hero Visual -->
-  <img src="assets/og-snapview.jpg" alt="SnapView Platform Banner" width="100%" style="border-radius: 14px; border: 1px solid #e1e4e8;" />
+  <!-- High-Resolution Platform Banner -->
+  <img src="assets/og-snapview.jpg" alt="SnapView Platform Showcase Banner" width="100%" style="border-radius: 14px; border: 1px solid #e1e4e8; box-shadow: 0 12px 35px rgba(0,0,0,0.08);" />
 
 </div>
 
 ---
 
 > [!IMPORTANT]
-> ### 🛡️ Commercial Software & Closed-Source Intellectual Property Notice
-> **SnapView is a proprietary commercial SaaS product.** To safeguard business logic, neural scoring algorithms, and proprietary video optimization pipelines, the production source code is maintained in an enterprise private repository.
+> ### 🔒 Commercial Intellectual Property & Portfolio Showcase Notice
+> **SnapView is a proprietary commercial SaaS platform.** The underlying production codebase, neural scoring heuristics, automated prompt caching algorithms, and anti-fraud financial pipelines are maintained in an enterprise private repository to safeguard core intellectual property.
 > 
-> **This public repository is the official Portfolio Showcase & Architectural Reference.** You are warmly invited to test and interact with the full production application directly on the **[Live Demo](#-interactive-live-demo)**.
+> **This public repository serves as the official Architectural Reference and Technical Portfolio.** Recruiters, investors, and technical teams are invited to test the live production system directly via the **[Live Demo](#-interactive-live-demo)**.
 
 ---
 
 ## 🚀 Interactive Live Demo
 
-Experience the live, deployed environment of SnapView in real-time:
+Experience **SnapView** in action through the deployed production environment:
 
 <div align="center">
 
 ### 🔗 **[https://snapviewjo.42web.io/?i=1](https://snapviewjo.42web.io/?i=1)**
 
-[![Open Live Application](https://img.shields.io/badge/👉_LAUNCH_LIVE_DEMO-snapviewjo.42web.io-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://snapviewjo.42web.io/?i=1)
-
-*💡 **Guest Access Supported:** Experience instant video rendering, status checks, and scan generated QR codes directly from any mobile device without mandatory signup.*
+[![Launch Production Demo](https://img.shields.io/badge/👉_LAUNCH_LIVE_DEMO-snapviewjo.42web.io-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://snapviewjo.42web.io/?i=1)
 
 </div>
 
----
-
-## 💡 Project Overview
-
-### 🎯 The Challenge
-Generative video engines (like Luma AI, Runway, Sora) produce stunning clips but suffer from two major operational hurdles in real-world business use:
-1. **Unpredictable Artifacts:** Motion blur, temporal tearing, and frame degradation frequently occur during synthesis, wasting credits and manual review time.
-2. **Distribution Friction:** Sharing heavy video files between desktop workstations and mobile clients requires cumbersome downloads or third-party cloud drives.
-
-### 🌟 The SnapView Solution
-**SnapView** delivers an autonomous, end-to-end platform combining AI synthesis, quality assurance, and physical-to-digital QR distribution:
-
-- **🧠 Automated Quality Telemetry:** A mathematical 6-phase scoring stage inspects generated video frames for blur, edge degradation, and compression noise. If thresholds are breached, SnapView automatically dispatches neural upscaling to repair the video before delivery.
-- **📲 Zero-Friction QR Mobile Preview:** Every render compiles a high-density, vector QR code linked to a signed, guest-accessible mobile 3D playback canvas. Anyone with a smartphone camera can view the scene within 2 seconds.
-- **💼 Complete Monetization Infrastructure:** Full subscription package management, promo coupon engine, bank transfer receipt auditing, and custom 2-Factor Authentication for administrative control.
+| Experience Mode | Capability | Access Level |
+| :--- | :--- | :--- |
+| **🖥️ Creator Studio** | Generate AI videos, configure camera motions, test upscale triggers | Authenticated / Guest Preview |
+| **📱 Mobile QR Gateway** | Scan generated QR codes via native smartphone camera for instant 3D view | Zero-login Guest Streaming |
+| **🛡️ Management Console** | Payment verification, promo coupon authoring, package tier controls | Protected by Two-Factor Auth (2FA) |
 
 ---
 
-## 🧠 Multi-Phase AI Pipeline
+## 💡 Executive Summary
 
-SnapView does not simply proxy API calls; it manages an intelligent, self-healing pipeline:
+### The Industry Problem
+- **In Hospitality & Food Services:** Printed physical menus and flat 2D images fail to evoke appetite appeal, while static PDF menus offer poor mobile interactivity.
+- **In Visual E-Commerce & Retail:** Generating photorealistic 3D product videos requires expensive 3D artists or studio videography.
+- **In Generative AI Pipelines:** Raw AI video synthesis (Luma, Runway, Sora) often produces stochastic defects—such as motion blur, temporal flickering, and structural artifacts—wasting expensive GPU credits.
+
+### The SnapView Solution
+**SnapView** delivers an autonomous visual commerce infrastructure:
+1. **White-Label Interactive Menus:** Restaurants and brands can generate cinematic videos for their dishes and merchandise, branded with custom colors, logos, and business names (`restaurant_name`, `theme_color`, `custom_logo`).
+2. **Autonomous Quality Self-Healing:** Generative outputs undergo mathematical quality evaluation. Videos that breach noise or blur thresholds are automatically repaired via neural upscaling, slashing defective outputs to near zero.
+3. **Physical-to-Digital Handshake with Telemetry:** High-contrast vector QR codes placed on physical dining tables or product packaging instantly route guests to an ultra-fast standalone 3D player while capturing real-time geolocation analytics.
+
+---
+
+## 🧠 Architectural Innovations
+
+### 1. 🔍 Autonomous 6-Phase Dynamic Quality Upscaler
+Rather than blindly dispatching every video to expensive enhancement APIs, SnapView employs a cost-saving telemetry pipeline:
+
+```
+[Video Generation] ──► [Quality Scoring Engine] ──► Threshold Evaluation
+                              ├─ Blur Score Check            ├──► Meets Standard (>90) ──► Skip to QR Gen (Save GPU Cost)
+                              ├─ Artifact Profiler           └──► Defects Detected    ──► Trigger Luma Upscale API
+                              ├─ Edge Sharpness Analysis                                      (Deblur + Denoise + Smooth)
+                              └─ Temporal Flicker Metric
+```
+- **Cost Reduction:** Achieves up to **60% GPU cost savings** by upscaling only frames that mathematically require reconstruction.
+- **Fail-Safe Thresholds:** Configured via runtime environment variables (`LUMA_UPSCALE_BLUR_THRESHOLD`, `ARTIFACT_THRESHOLD`).
+
+---
+
+### 2. ⚡ Motion-Aware Prompt Synthesizer & Historical Prompt Caching
+SnapView’s engine (`LumaController`) implements an intelligent prompt construction layer powered by the **Luma Ray-3.2** foundation model:
+- **Spatial Concept Injection:** Maps frontend UI controls into 3D camera trajectory keys (`dolly-in`, `orbit`, `pan`, `zoom`) and injects them into Luma's native `concepts` vector payload.
+- **Negative Prompt Sanitization:** Automatically appends defense tokens (`morphing`, `distortion`, `flickering`, `sudden transformation`) to lock object geometry and maintain product branding integrity.
+- **Intelligent Prompt Caching:** Queries historical successful generations (`quality_score > 90` within the past 7 days). If a high-scoring prompt template for a product type exists, SnapView reuses the proven motion architecture to ensure deterministic, high-quality visual results.
+
+---
+
+### 3. 📱 Physical QR Generation & Standalone Guest 3D Viewer
+- **Vector Scalability:** Compiles high-density, error-corrected QR codes (`simple-qrcode`) suitable for high-resolution table tent printing or digital display.
+- **Zero-Friction Mobile Playback:** Routes to a lightweight standalone route (`/view/{id}`) engineered for instant mobile browser rendering—eliminating the need for mobile app downloads or user authentication.
+
+---
+
+### 4. 📊 Real-Time GeoIP & Device Telemetry Engine (`QrScan`)
+Every scan of a SnapView QR code triggers an asynchronous telemetry pipeline:
+- **Captured Metrics:** Logs `ip_address`, `country`, `city`, `device` (Mobile/Desktop/Tablet), and precise UTC timestamps.
+- **Business Intelligence:** Venue operators and merchants gain real-time insight into which physical dining tables, promotional displays, or retail campaigns generate the highest customer engagement.
+
+---
+
+### 5. 🛡️ Anti-Fraud & Transaction Integrity Subsystem (`FraudAttempt`)
+To protect against payment fraud in manual bank transfers and receipt submissions:
+- **Deduplication Guardian:** Audits unique transaction references (`bank_reference`). Duplicate submissions instantly trigger security containment.
+- **Automated Fraud Logging:** Malicious attempts are flagged in `fraud_attempts` recording user ID, IP address, sender phone number, and transaction context for immediate administrative review.
+
+---
+
+### 6. 🩺 Self-Healing Diagnostics Subsystem (`DiagnosticsController`)
+SnapView includes an integrated operational health monitor:
+- Verifies public storage disk read/write accessibility.
+- Checks live HTTP handshake latency with Luma AI API endpoints.
+- Validates queue worker heartbeats and background job latency.
+
+---
+
+## 🔄 System Sequence & Telemetry Flow
+
+The following sequence details how SnapView orchestrates creation, self-healing upscaling, and real-time QR telemetry:
 
 ```mermaid
-flowchart TD
-    A["👤 User Input<br/>(Image Prompt / Direction)"] --> B["⚡ Step 1: Luma AI Ray Engine<br/>(Initial Video Synthesis)"]
-    B --> C["🔍 Step 2: Quality Inspection Matrix"]
+sequenceDiagram
+    autonumber
+    actor Merchant as Merchant / Creator
+    participant Platform as SnapView Backend (Laravel 12)
+    participant LumaAPI as Luma Ray-3.2 Engine
+    participant Upscaler as Luma Neural Upscaler
+    actor Customer as Diner / Mobile Customer
+    participant Telemetry as GeoIP & Telemetry Store
+
+    Merchant->>Platform: Upload Image + Select Camera Motion & Branding
+    Platform->>Platform: Synthesize Prompt (Concepts + Negative Tokens + Cache Check)
+    Platform->>LumaAPI: Dispatch Video Generation Payload (Ray-3.2)
+    LumaAPI-->>Platform: Return Initial Rendered Stream
+    Platform->>Platform: Execute 6-Phase Quality Metric Scoring
     
-    subgraph Quality Gates
-        C1["Blur Metric Score"]
-        C2["Compression Artifact Profiler"]
-        C3["Temporal Stability Evaluator"]
-        C4["Edge Sharpness Detector"]
+    alt Video Quality Below Threshold
+        Platform->>Upscaler: Dispatch Stream for Neural Denoising & Deblurring
+        Upscaler-->>Platform: Return Enhanced 4K Stream
+    else Video Passes Quality Gate
+        Platform->>Platform: Skip Upscaling (GPU Resource Saved)
     end
-    
-    C --> C1 & C2 & C3 & C4
-    C1 & C2 & C3 & C4 --> D{"Meets Quality<br/>Threshold?"}
-    
-    D -- "❌ Below Standard<br/>(Blur/Artifact Detected)" --> E["🛠️ Step 3: Neural Upscaler API<br/>(Denoise + Deblur + Smooth)"]
-    D -- "✅ High Quality" --> F["🎨 Step 4: Post-Processing"]
-    
-    E --> F
-    F --> G["📱 Step 5: Vector QR Code Generation<br/>(Instant Mobile Routing)"]
-    G --> H["🔒 Step 6: Signed Stream Storage<br/>(Hotlink-Proof Distribution)"]
-    H --> I["🚀 Client Delivery & Mobile Scan"]
+
+    Platform->>Platform: Generate Cryptographic QR Code & Signed Video Route
+    Platform-->>Merchant: Display Ready-to-Print QR Code & Dashboard Assets
+
+    Note over Customer,Platform: Physical World Interaction
+    Customer->>Platform: Scans Table QR Code with Smartphone Camera
+    Platform->>Telemetry: Asynchronously Log Scan (IP, Country, City, Device Type)
+    Platform-->>Customer: Stream Instant Mobile 3D/Video Player (No Login Required)
 ```
 
 ---
 
-## ✨ Key Capabilities
+## 🛠️ Production Tech Stack
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🎬 Cinematic AI Video Synthesis</h3>
-      <ul>
-        <li>Native integration with <b>Luma AI Ray & Dream Machine</b> APIs.</li>
-        <li>Image-to-video motion interpolation with configurable camera paths.</li>
-        <li>Asynchronous polling workers ensuring zero web-server timeouts.</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h3>📈 Dynamic Autonomous Upscaling</h3>
-      <ul>
-        <li>Calculates <b>Blur, Artifact, and Temporal Flicker scores</b>.</li>
-        <li>Dynamically triggers neural upscaling only when strictly required.</li>
-        <li>Saves up to <b>60% in GPU overhead</b> by skipping clean generations.</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>📱 Vector QR Code & Mobile 3D Player</h3>
-      <ul>
-        <li>Generates high-contrast, scalable SVG/PNG QR codes on the fly.</li>
-        <li>Standalone mobile viewing player tailored for instant smartphone scanning.</li>
-        <li>No app installation or account required for guest viewers.</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h3>🛡️ Enterprise Security & 2FA Admin</h3>
-      <ul>
-        <li>Cryptographic <b>Time-Limited Signed URLs</b> to thwart hotlinking.</li>
-        <li>Email-based <b>Two-Factor Authentication (2FA)</b> for sensitive panels.</li>
-        <li>Secure payment receipt uploads and manual financial approval workflows.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🛠️ Technology Stack
-
-```
-               ┌────────────────────────────────────────────────────────┐
-               │                     USER INTERFACE                     │
-               │   Blade Templates • Tailwind CSS 3 • Alpine.js • Vite  │
-               └───────────────────────────┬────────────────────────────┘
-                                           │ HTTP / AJAX
-               ┌───────────────────────────▼────────────────────────────┐
-               │                    APPLICATION CORE                    │
-               │              Laravel 12.x  •  PHP 8.2+                 │
-               │      Eloquent ORM • Breeze Auth • Socialite (OAuth)    │
-               └─────────────┬───────────────────────────┬──────────────┘
-                             │                           │
-          ┌──────────────────▼──────────┐     ┌──────────▼───────────────┐
-          │      AI & MEDIA ENGINE      │     │    DATABASE & STORAGE    │
-          │   Luma AI Generation API    │     │       MySQL 8.0          │
-          │   Luma Neural Upscale API   │     │    Signed File Storage   │
-          │   Simple QRCode Vector Gen  │     │   Excel / Receipt Audits │
-          └─────────────────────────────┘     └──────────────────────────┘
-```
-
-| Domain | Technology | Purpose |
+| Architectural Layer | Technologies & Ecosystem | Role & Implementation |
 | :--- | :--- | :--- |
-| **Backend** | **Laravel 12.x (PHP 8.2+)** | Core architectural framework, queues, API handling |
-| **Frontend** | **Tailwind CSS + Alpine.js** | Responsive, dark-mode ready, glassmorphic UI |
-| **AI Synthesis** | **Luma AI Ray API** | Generating high-fidelity cinematic video scenes |
-| **Enhancement** | **Luma Dynamic Upscale API** | Neural deblurring, temporal stabilization, artifact cleaning |
-| **QR Generation** | **SimpleSoftwareIO QRCode** | Instant mobile scannable vectors |
-| **Authentication** | **Laravel Breeze + Socialite** | Google OAuth & email identity systems |
-| **Security** | **Two-Factor Auth (2FA) + Signed URLs** | Defense-in-depth for media streaming and administration |
-| **Database** | **MySQL** | Relational store for users, payments, quotas, and logs |
+| **Backend Core** | **Laravel 12.x** (PHP 8.2+) | MVC architecture, Eloquent ORM, custom Artisan tools |
+| **Frontend UI** | **Tailwind CSS 3 + Alpine.js + Vite** | Responsive, dark-mode ready glassmorphic interfaces |
+| **AI Foundation Model** | **Luma AI Ray-3.2 Engine** | High-fidelity image-to-video motion synthesis |
+| **Quality Enhancement** | **Luma Neural Upscale API** | Multi-phase dynamic deblurring and artifact mitigation |
+| **Physical-Digital Bridge**| **SimpleSoftwareIO Simple QRCode** | Dynamic vector (SVG/PNG) QR code generation |
+| **Telemetry & Analytics** | **GeoIP Services + QrScan Model** | Scan origin tracking (Country, City, User-Agent) |
+| **Security & Auth** | **Laravel Breeze + Socialite (Google)**| OAuth 2.0 integration and role-based access control |
+| **Admin Protection** | **Custom Two-Step Verification (2FA)** | 6-digit email OTP for critical administrative gates |
+| **Integrity & Auditing** | **FraudAttempt Model + Signed URLs** | Deduplication of bank references & hotlink protection |
+| **Data Persistence** | **MySQL 8.0** | Relational schemas for users, models, scans, and coupons |
 
 ---
 
-## 📱 Mobile QR Experience
+## 🛡️ Security & Anti-Fraud Architecture
 
 <div align="center">
 
 ```
-  ┌─────────────────┐       Instant Camera Scan       ┌────────────────────────┐
-  │  Generated QR   │    ────────────────────────►    │  Responsive 3D Viewer  │
-  │  on Web Screen  │                                 │  on Mobile Browser     │
-  └─────────────────┘                                 └────────────────────────┘
+  ┌───────────────────────┐       ┌───────────────────────┐       ┌───────────────────────┐
+  │  Signed Stream URLs   │       │   Admin 2FA Gateway   │       │ Anti-Fraud Inspector  │
+  │  (Auto-Expiring Keys) │       │   (6-Digit Email OTP) │       │ (Bank Ref Deduplication)
+  └───────────────────────┘       └───────────────────────┘       └───────────────────────┘
 ```
-
-Try scanning or clicking directly on the live link to witness how seamless video sharing is:
-👉 **[Open Live Demo Portal](https://snapviewjo.42web.io/?i=1)**
 
 </div>
 
+- **Cryptographically Signed Routes:** Video streams are served via `URL::signedRoute` with strict time-to-live (TTL) limits, preventing bandwidth theft, unauthorized hotlinking, and content scraping.
+- **Two-Factor Administrative Barrier:** Access to package price overrides, coupon management, and financial payment approvals is fortified with multi-factor email verification.
+- **Financial Audit Logging:** Complete audit trail tracking user IDs, sender phone numbers, and IP addresses for every transaction request.
+
 ---
 
-## 📂 Showcase Repository Architecture
+## 📂 Showcase Repository Blueprint
 
 ```
 snapview-showcase/
 ├── assets/
-│   ├── logo.png             # Official brand vector & icon
-│   └── og-snapview.jpg      # High-resolution platform preview banner
-├── README.md                # Comprehensive architectural showcase (This document)
-└── LICENSE                  # Proprietary closed-source commercial license
+│   ├── logo.png               # Official brand identity vector
+│   └── og-snapview.jpg        # High-resolution platform preview banner
+├── README.md                  # Comprehensive architectural reference (This document)
+└── LICENSE                    # Proprietary closed-source commercial license
 ```
 
 ---
 
-## 📬 Developer & Contact
+## 📬 Author & Contact
 
-Developed and maintained by **Hamzah Rababah**.
+Architected and developed by **Hamzah Rababah**.
 
 <p align="left">
   <a href="https://github.com/HamzahRababah707"><img src="https://img.shields.io/badge/GitHub-HamzahRababah707-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -230,8 +233,8 @@ Developed and maintained by **Hamzah Rababah**.
 </p>
 
 - **GitHub Profile:** [@HamzahRababah707](https://github.com/HamzahRababah707)
-- **Live Demo:** [https://snapviewjo.42web.io/?i=1](https://snapviewjo.42web.io/?i=1)
-- **Email:** `rababahhamzah@gmail.com`
+- **Production URL:** [https://snapviewjo.42web.io/?i=1](https://snapviewjo.42web.io/?i=1)
+- **Direct Email:** `rababahhamzah@gmail.com`
 
 ---
 
